@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseronnect",
+        "uuid": 15847846,
+        "checksum": "ocb70a"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
